@@ -13,8 +13,10 @@ Industry_$10 is an alphebetical list of stocks under $10 that support options an
 
 Industry_$5 is an alphebetical list of stocks under $5 that support options and displays their industry and sector
 
-Sorted_Industry_$10 is a list of stocks under $10 that support options and is sorted by their industry and sector
+Sorted_Sector_$10 is a list of stocks under $10 that support options and is sorted by their industry and sector
 
-Sorted_Industry_$5 is a list of stocks under $5 that support options and is sorted by their industry and sector
+Sorted_Sector_$5 is a list of stocks under $5 that support options and is sorted by their industry and sector
+
+The two ones that say Sorted_specific. Are sorted by their much more specific industry compared to the general one
 
 The rest are self explanitory
