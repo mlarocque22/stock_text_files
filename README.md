@@ -13,12 +13,9 @@ Inside the Penny_Stocks folder there are multiple text files which just show eve
 
 Inside the Penny_Options folder there a multiple text files which just show every stock on the NYSE under a set price threshold that also support options
 
-Inside the Indsustry folder there are 3 types of text files. 
-
-Ones that says Industry_$'Price' is an alphabetical list of stocks under a price threshold that support options and include their industry and sector
-
-Ones that say Sorted_Sector_$'Price' is a sorted list of stocks under a price threshold sorted by their more generalized sector
-
-Ones that say Sorted_Specific_$'Price' are a sorted list of stocks under a price threshold sorted by their more specific industry
+Inside the Indsustry folder there are 3 types of text files:
+    Ones that says Industry_$'Price' is an alphabetical list of stocks under a price threshold that support options and include their industry and sector
+    Ones that say Sorted_Sector_$'Price' is a sorted list of stocks under a price threshold sorted by their more generalized sector
+    Ones that say Sorted_Specific_$'Price' are a sorted list of stocks under a price threshold sorted by their more specific industry
 
 The rest are self explanitory
