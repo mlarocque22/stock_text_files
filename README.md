@@ -9,14 +9,12 @@ NYSE.txt is a list of every stock on the New York Stock Exchange, with their tic
 
 Portfolio_update_total.txt is the most current returns on the portfolio created from my Stock_Screener program
 
-Industry_$10 is an alphebetical list of stocks under $10 that support options and displays their industry and sector
+Inside the Indsustry folder there are 3 types of text files. 
 
-Industry_$5 is an alphebetical list of stocks under $5 that support options and displays their industry and sector
+Ones that says Industry_$'Price' is an alphabetical list of stocks under a price threshold that support options and include their industry and sector
 
-Sorted_Sector_$10 is a list of stocks under $10 that support options and is sorted by their industry and sector
+Ones that say Sorted_Sector_$'Price' is a sorted list of stocks under a price threshold sorted by their more generalized sector
 
-Sorted_Sector_$5 is a list of stocks under $5 that support options and is sorted by their industry and sector
-
-The ones that say Sorted_specific. Are sorted by their much more specific industry compared to the general one
+Ones that say Sorted_Specific_$'Price' are a sorted list of stocks under a price threshold sorted by their more specific industry
 
 The rest are self explanitory
