@@ -1,0 +1,460 @@
+Ticker, Price, Sector, Industry
+AAIC, 3.7000, Real Estate, REIT—Mortgage
+ABEV, 2.9400, Consumer Defensive, Beverages—Brewers
+ACCO, 8.95, Industrials, Business Equipment & Supplies
+ACH, 8.11, Basic Materials, Aluminum
+ADT, 9.38, Industrials, Security & Protection Services
+AEG, 4.3200, Financial Services, Insurance—Diversified
+AENZ, 2.4100, Industrials, Engineering & Construction
+AFI, 4.4900, Industrials, Building Products & Equipment
+AGI, 7.98, Basic Materials, Gold
+AGRO, 8.02, Consumer Defensive, Farm Products
+AGS, 6.21, Consumer Cyclical, Gambling
+AHC, 2.4500, Communication Services, Publishing
+AHT, 3.0000, Real Estate, REIT—Hotel & Motel
+AIV, 4.8700, Real Estate, REIT—Residential
+ALTG, 9.97, Industrials, Rental & Leasing Services
+AM, 8.01, Energy, Oil & Gas Midstream
+AMC, 7.17, Communication Services, Entertainment
+AMPY, 2.6100, Energy, Oil & Gas E&P
+AMRX, 5.17, Healthcare, Drug Manufacturers—Specialty & Generic
+ANH, 2.6800, Real Estate, REIT—Mortgage
+AOD, 9.28, Financial Services, Asset Management
+AP, 7.52, Industrials, Metal Fabrication
+APTS, 7.67, Real Estate, REIT—Residential
+AR, 7.42, Energy, Oil & Gas E&P
+ARC, 2.1900, Industrials, Specialty Business Services
+ARCO, 5.38, Consumer Cyclical, Restaurants
+ARL, 9.44, Real Estate, Real Estate—Development
+ARLO, 8.52, Industrials, Security & Protection Services
+AROC, 9.51, Energy, Oil & Gas Equipment & Services
+ASC, 3.6000, Industrials, Marine Shipping
+ASG, 9.23, Financial Services, Asset Management
+ASX, 7.60, Technology, Semiconductors
+AT, 2.9800, Utilities, Utilities—Independent Power Producers
+AUY, 4.7900, Basic Materials, Gold
+AVAL, 6.70, Financial Services, Banks—Regional
+AWP, 5.51, Financial Services, Asset Management
+AXL, 9.83, Consumer Cyclical, Auto Parts
+AXR, 9.02, Real Estate, Real Estate Services
+BBAR, 2.9500, Financial Services, Banks—Regional
+BBD, 4.8600, Financial Services, Banks—Regional
+BBDC, 9.15, Financial Services, Credit Services
+BBDO, 4.2300, Financial Services, Banks—Regional
+BBVA, 5.29, Financial Services, Banks—Diversified
+BBW, 5.25, Consumer Cyclical, Specialty Retail
+BCS, 8.07, Financial Services, Banks—Diversified
+BCX, 8.32, Financial Services, Asset Management
+BDJ, 8.64, Financial Services, Asset Management
+BEDU, 6.64, Consumer Defensive, Education & Training Services
+BEST, 2.5000, Industrials, 
+BGIO, 9.15, Financial Services, Asset Management
+BGR, 7.69, Financial Services, Asset Management
+BGY, 5.95, Financial Services, Asset Management
+BHR, 5.40, Real Estate, REIT—Hotel & Motel
+BKD, 5.50, Healthcare, Medical Care Facilities
+BKT, 6.17, Financial Services, Asset Management
+BNED, 6.91, Consumer Cyclical, Specialty Retail
+BORR, 0.9960, Energy, Oil & Gas Drilling
+BPT, 3.5900, Energy, Oil & Gas Refining & Marketing
+BRFS, 4.2000, Consumer Defensive, Packaged Foods
+BSBR, 7.72, Financial Services, Banks—Regional
+BSM, 9.73, Energy, Oil & Gas E&P
+BSMX, 5.20, Financial Services, Banks—Regional
+BTU, 3.8000, Energy, Thermal Coal
+BUR, 8.43, Financial Services, Asset Management
+BW, 6.37, Industrials, Electrical Equipment & Parts
+BXG, 7.85, Consumer Cyclical, Resorts & Casinos
+CAAP, 4.1000, Industrials, Airports & Air Services
+CCM, 4.5000, Healthcare, Medical Care Facilities
+CCO, 1.9400, Communication Services, Advertising Agencies
+CDE, 9.19, Basic Materials, Gold
+CEIX, 9.39, Energy, Thermal Coal
+CEL, 3.6600, Communication Services, Telecom Services
+CELP, 2.9300, Energy, Oil & Gas Equipment & Services
+CEPU, 2.3900, Utilities, Utilities—Regulated Electric
+CGA, 5.65, Basic Materials, Agricultural Inputs
+CHMI, 9.33, Real Estate, REIT—Mortgage
+CHRA, 3.7000, Industrials, Waste Management
+CHS, 2.3400, Consumer Cyclical, Apparel Retail
+CHU, 5.45, , 
+CIA, 5.81, Financial Services, Insurance—Life
+CIF, 2.5200, Financial Services, Asset Management
+CIG, 2.6500, Utilities, Utilities—Diversified
+CLNC, 8.50, Real Estate, REIT—Diversified
+CLNY, 5.39, Real Estate, REIT—Diversified
+CLPR, 7.42, Real Estate, REIT—Diversified
+CLS, 9.00, Technology, Electronic Components
+CMCM, 4.2300, Technology, Software—Application
+CMO, 5.69, Real Estate, REIT—Mortgage
+CMRE, 8.55, Industrials, Marine Shipping
+CMU, 4.4900, Financial Services, Asset Management
+CNF, 3.4300, Financial Services, Mortgage Finance
+CO, 4.1300, Healthcare, Diagnostics & Research
+COTY, 7.05, Consumer Defensive, Household & Personal Products
+CPAC, 8.09, Basic Materials, Building Materials
+CPG, 3.1900, Energy, Oil & Gas E&P
+CPLG, 7.82, Real Estate, REIT—Hotel & Motel
+CRK, 5.0000, Energy, Oil & Gas E&P
+CRT, 8.15, Energy, Oil & Gas E&P
+CSLT, 1.8300, Healthcare, Health Information Services
+CSPR, 8.00, Consumer Cyclical, Furnishings, Fixtures & Appliances
+CTK, 3.4600, Technology, Software—Application
+CVE, 6.43, Energy, Oil & Gas Integrated
+CX, 6.43, Basic Materials, Building Materials
+CXE, 5.03, Financial Services, Asset Management
+CXH, 9.95, Financial Services, Asset Management
+CXW, 7.29, Real Estate, REIT—Specialty
+CYH, 9.32, Healthcare, Medical Care Facilities
+DCF, 8.89, , 
+DDF, 9.60, Financial Services, Asset Management
+DEX, 9.68, Financial Services, Asset Management
+DHF, 3.0000, Financial Services, Asset Management
+DHT, 5.70, Energy, Oil & Gas Midstream
+DHX, 2.5100, Industrials, Staffing & Employment Services
+DL, 9.63, Consumer Defensive, Education & Training Services
+DLNG, 2.8500, Energy, Oil & Gas Midstream
+DNK, 3.0600, Real Estate, Real Estate Services
+DNOW, 9.76, Energy, Oil & Gas Equipment & Services
+DRH, 9.01, Real Estate, REIT—Hotel & Motel
+DS, 2.4400, Consumer Cyclical, Leisure
+DSE, 6.35, Financial Services, Asset Management
+DSM, 7.92, Financial Services, Asset Management
+DSSI, 7.48, Energy, Oil & Gas Midstream
+DSX, 2.6400, Industrials, Marine Shipping
+DVD, 2.1400, Consumer Cyclical, Leisure
+EBR, 5.79, Utilities, Utilities—Regulated Electric
+EDD, 6.15, Financial Services, Asset Management
+EDF, 8.49, Financial Services, Asset Management
+EDI, 9.35, Financial Services, Asset Management
+EDN, 3.7000, Utilities, Utilities—Regulated Electric
+EEX, 4.8300, Communication Services, Advertising Agencies
+EFL, 9.29, , 
+EGY, 2.9700, Energy, Oil & Gas E&P
+EHT, 9.79, Financial Services, Asset Management
+ELVT, 4.4000, Financial Services, Credit Services
+ENBL, 5.75, Energy, Oil & Gas Midstream
+ENIA, 7.65, Utilities, Utilities—Regulated Electric
+ENIC, 3.8700, Utilities, Utilities—Regulated Electric
+ENLC, 4.1700, Energy, Oil & Gas Midstream
+ENZ, 3.3300, Healthcare, Diagnostics & Research
+EOD, 5.08, Financial Services, Asset Management
+EQS, 1.8802, Financial Services, Asset Management
+ERF, 3.7800, Energy, Oil & Gas E&P
+ERJ, 7.06, Industrials, Aerospace & Defense
+ESGC, 2.1000, Communication Services, Entertainment
+ESRT, 9.90, Real Estate, REIT—Diversified
+ESTE, 6.09, Energy, Oil & Gas E&P
+ET, 6.70, Energy, Oil & Gas Midstream
+ETM, 5.06, Communication Services, Broadcasting
+ETRN, 7.08, Energy, Oil & Gas Midstream
+ETW, 9.80, Financial Services, Asset Management
+EURN, 8.31, Energy, Oil & Gas Midstream
+EVC, 3.2400, Communication Services, Broadcasting
+EVF, 6.62, Financial Services, Asset Management
+EXG, 8.96, Financial Services, Asset Management
+EXK, 4.9300, Basic Materials, Silver
+EXPR, 3.2700, Consumer Cyclical, Apparel Retail
+EXTN, 4.8600, Energy, Oil & Gas Equipment & Services
+FBP, 9.87, Financial Services, Banks—Regional
+FEDU, 1.8500, Consumer Defensive, Education & Training Services
+FEI, 6.31, Financial Services, Asset Management
+FENG, 1.4700, Communication Services, Internet Content & Information
+FGB, 3.5861, Financial Services, Asset Management
+FI, 3.2400, Energy, Oil & Gas Equipment & Services
+FINV, 4.1100, Financial Services, Credit Services
+FIT, 6.99, , 
+FIV, 9.24, Financial Services, Asset Management
+FLNG, 8.30, Energy, Oil & Gas Midstream
+FMO, 7.95, Financial Services, Asset Management
+FPH, 6.75, Real Estate, Real Estate—Development
+FPL, 4.7800, Financial Services, Asset Management
+FRO, 6.49, Energy, Oil & Gas Midstream
+FSM, 7.48, Basic Materials, Silver
+FT, 7.46, Financial Services, Asset Management
+FTK, 2.1100, Energy, Oil & Gas Equipment & Services
+GAB, 6.43, Financial Services, Asset Management
+GCI, 4.7500, Communication Services, Publishing
+GCV, 6.61, Financial Services, Asset Management
+GDL, 8.98, Financial Services, Asset Management
+GEL, 6.42, Energy, Oil & Gas Midstream
+GEN, 0.7549, Healthcare, Medical Care Facilities
+GEO, 8.68, Real Estate, REIT—Healthcare Facilities
+GER, 8.65, Financial Services, Asset Management
+GFI, 9.14, Basic Materials, Gold
+GGB, 4.3200, Basic Materials, Steel
+GGT, 8.70, Financial Services, Asset Management
+GIM, 5.61, Financial Services, Asset Management
+GLOG, 4.5000, Energy, Oil & Gas Midstream
+GLOP, 3.4500, Energy, Oil & Gas Midstream
+GNE, 7.88, Utilities, Utilities—Regulated Electric
+GNK, 8.06, Industrials, Marine Shipping
+GNT, 5.09, Financial Services, Asset Management
+GNW, 3.6100, Financial Services, Insurance—Life
+GOL, 9.35, Industrials, Airlines
+GPM, 6.74, Financial Services, Asset Management
+GPMT, 9.95, Real Estate, REIT—Mortgage
+GTT, 5.0100, Communication Services, Telecom Services
+GUT, 8.13, Financial Services, Asset Management
+HBM, 6.07, Basic Materials, Copper
+HCHC, 3.9700, Communication Services, Telecom Services
+HEXO, 7.95, Healthcare, Drug Manufacturers—Specialty & Generic
+HGLB, 6.82, , 
+HIE, 8.13, Financial Services, Asset Management
+HIL, 2.3100, Industrials, Engineering & Construction
+HIO, 4.9900, Financial Services, Asset Management
+HIX, 6.93, Financial Services, Asset Management
+HKIB, 6.40, Financial Services, Capital Markets
+HL, 5.98, Basic Materials, Gold
+HLX, 4.7500, Energy, Oil & Gas Equipment & Services
+HMY, 4.2700, Basic Materials, Gold
+HRTG, 9.32, Financial Services, Insurance—Property & Casualty
+HT, 8.20, Real Estate, REIT—Hotel & Motel
+HTY, 5.70, Financial Services, Asset Management
+HYB, 8.95, Financial Services, Asset Management
+HZN, 9.63, Consumer Cyclical, Auto Parts
+IAE, 9.39, Financial Services, Asset Management
+IAG, 3.4900, Basic Materials, Gold
+ICD, 4.1400, Energy, Oil & Gas Drilling
+ICL, 5.35, Basic Materials, Agricultural Inputs
+IGA, 8.83, Financial Services, Asset Management
+IGD, 5.31, Financial Services, Asset Management
+IGR, 7.20, Financial Services, Asset Management
+IHD, 7.88, Financial Services, Asset Management
+IHIT, 9.07, Financial Services, Asset Management
+IHTA, 9.18, , 
+IID, 5.24, Financial Services, Asset Management
+ING, 9.36, Financial Services, Banks—Diversified
+INN, 9.06, Real Estate, REIT—Hotel & Motel
+IO, 2.9700, Energy, Oil & Gas Equipment & Services
+IRR, 2.8700, Financial Services, Asset Management
+IRS, 4.2500, Industrials, Conglomerates
+ITCB, 5.48, Financial Services, Banks—Regional
+ITUB, 5.25, Financial Services, Banks—Regional
+IVR, 3.8300, Real Estate, REIT—Mortgage
+JAX, 7.62, Consumer Cyclical, Restaurants
+JCO, 8.24, Financial Services, Asset Management
+JDD, 8.86, Financial Services, Asset Management
+JE, 7.52, Utilities, Utilities—Diversified
+JEMD, 7.80, , 
+JEQ, 9.38, Financial Services, Asset Management
+JFR, 9.46, Financial Services, Asset Management
+JHAA, 9.86, , 
+JHB, 9.26, , 
+JILL, 4.6500, Consumer Cyclical, Apparel Retail
+JMM, 7.25, , 
+JMP, 4.3500, Financial Services, Capital Markets
+JOF, 9.10, Financial Services, Asset Management
+JP, 2.3000, Financial Services, Asset Management
+JPC, 9.29, Financial Services, Asset Management
+JPS, 9.60, Financial Services, Asset Management
+JQC, 6.48, Financial Services, Asset Management
+JRO, 9.37, Financial Services, Asset Management
+JRS, 8.79, Financial Services, Asset Management
+JT, 3.5900, Financial Services, Credit Services
+JTA, 9.93, Financial Services, Asset Management
+KFS, 4.5700, Consumer Cyclical, Auto & Truck Dealerships
+KGC, 7.05, Basic Materials, Gold
+KMF, 6.34, Financial Services, Asset Management
+KOS, 2.5800, Energy, Oil & Gas E&P
+KRP, 8.82, Energy, Oil & Gas E&P
+KUKE, 9.20, Communication Services, Entertainment
+KYN, 6.70, Financial Services, Asset Management
+LAIX, 8.1800, Consumer Defensive, Education & Training Services
+LCI, 6.40, Healthcare, Drug Manufacturers—Specialty & Generic
+LEAF, 6.47, Communication Services, Internet Content & Information
+LEE, 1.9000, Communication Services, Publishing
+LEJU, 3.2300, Real Estate, Real Estate Services
+LEO, 8.52, Financial Services, Asset Management
+LFT, 3.2300, Real Estate, REIT—Mortgage
+LINX, 6.95, Technology, Software—Application
+LITB, 3.2000, Consumer Cyclical, Internet Retail
+LND, 4.3800, Consumer Defensive, Farm Products
+LOMA, 5.39, Basic Materials, Building Materials
+LUB, 3.1600, Consumer Cyclical, Restaurants
+LXU, 3.9800, Basic Materials, Chemicals
+LYG, 1.9900, Financial Services, Banks—Regional
+MBI, 6.59, Financial Services, Insurance—Specialty
+MBT, 9.30, Communication Services, Telecom Services
+MCN, 7.11, Financial Services, Asset Management
+MCR, 8.89, Financial Services, Asset Management
+MDLQ, 7.96, , 
+MDLX, 7.70, , 
+MDLY, 9.26, Financial Services, Asset Management
+MFA, 3.9200, Real Estate, REIT—Mortgage
+MFD, 8.84, Financial Services, Asset Management
+MFG, 2.8400, Financial Services, Banks—Regional
+MFGP, 6.59, Technology, Software—Infrastructure
+MFM, 6.71, Financial Services, Asset Management
+MFV, 5.77, Financial Services, Asset Management
+MG, 7.76, Industrials, Security & Protection Services
+MGF, 4.5200, Financial Services, Asset Management
+MGY, 9.85, Energy, Oil & Gas E&P
+MHF, 7.95, Financial Services, Asset Management
+MIE, 2.8000, Financial Services, Asset Management
+MIN, 3.7600, Financial Services, Asset Management
+MITT, 3.6000, Real Estate, REIT—Mortgage
+MMT, 6.18, Financial Services, Asset Management
+MN, 6.61, Financial Services, Asset Management
+MOGU, 3.4700, Consumer Cyclical, Internet Retail
+MPLN, 8.00, Healthcare, Healthcare Plans
+MRC, 9.83, Energy, Oil & Gas Equipment & Services
+MRO, 7.93, Energy, Oil & Gas E&P
+MSD, 9.37, Financial Services, Asset Management
+MTL, 1.9000, Basic Materials, Steel
+MTR, 4.7800, Energy, Oil & Gas E&P
+MUFG, 4.8400, Financial Services, Banks—Diversified
+MUX, 1.1600, Basic Materials, Other Precious Metals & Mining
+MVF, 9.32, Financial Services, Asset Management
+MVO, 3.9499, Energy, Oil & Gas E&P
+MXE, 9.52, Financial Services, Asset Management
+NAT, 3.2100, Industrials, Marine Shipping
+NCV, 5.87, Financial Services, Asset Management
+NCZ, 5.21, Financial Services, Asset Management
+NEW, 7.29, Consumer Defensive, Education & Training Services
+NEX, 3.8500, Energy, Oil & Gas Equipment & Services
+NEXA, 9.64, Basic Materials, Other Industrial Metals & Mining
+NFH, 8.90, Healthcare, Medical Care Facilities
+NGL, 2.7200, Energy, Oil & Gas Refining & Marketing
+NGS, 9.33, Energy, Oil & Gas Equipment & Services
+NHA, 9.86, Financial Services, Asset Management
+NINE, 2.9200, Energy, Oil & Gas Equipment & Services
+NL, 4.8200, Industrials, Security & Protection Services
+NLY, 8.47, Real Estate, REIT—Mortgage
+NM, 4.8000, Industrials, Marine Shipping
+NMR, 5.67, Financial Services, Capital Markets
+NNA, 3.6600, Energy, Oil & Gas Midstream
+NOA, 9.23, Energy, Oil & Gas Equipment & Services
+NOK, 4.3300, Technology, Communication Equipment
+NR, 2.8000, Energy, Oil & Gas Equipment & Services
+NRGX, 9.00, , 
+NRT, 4.1000, Energy, Oil & Gas Equipment & Services
+NSCO, 8.09, Industrials, Rental & Leasing Services
+NSL, 5.56, Financial Services, Asset Management
+NTP, 8.87, Real Estate, Real Estate Services
+NVGS, 9.45, Energy, Oil & Gas Midstream
+NWG, 4.5700, Financial Services, Banks—Diversified
+NWHM, 5.53, Consumer Cyclical, Residential Construction
+NYC, 9.99, Real Estate, REIT—Office
+OIA, 8.00, Financial Services, Asset Management
+OII, 9.85, Energy, Oil & Gas Equipment & Services
+OIS, 6.42, Energy, Oil & Gas Equipment & Services
+ONE, 3.9900, Consumer Defensive, Education & Training Services
+ORC, 5.39, Real Estate, REIT—Mortgage
+ORN, 5.90, Industrials, Engineering & Construction
+OSG, 2.1600, Energy, Oil & Gas Midstream
+PBF, 9.55, Energy, Oil & Gas Refining & Marketing
+PBI, 9.23, Industrials, Business Equipment & Supplies
+PBT, 3.8100, Energy, Oil & Gas E&P
+PCF, 8.84, Financial Services, Asset Management
+PCK, 9.11, Financial Services, Asset Management
+PGRE, 9.08, Real Estate, REIT—Office
+PHK, 6.23, Financial Services, Asset Management
+PHT, 9.14, Financial Services, Asset Management
+PHX, 3.1400, Energy, Oil & Gas E&P
+PIM, 4.2200, Financial Services, Asset Management
+PMM, 8.16, Financial Services, Asset Management
+PPR, 4.5500, Financial Services, Asset Management
+PPT, 4.6800, Financial Services, Asset Management
+PRT, 3.1000, Energy, Oil & Gas E&P
+PRTY, 8.01, Consumer Cyclical, Specialty Retail
+PSO, 9.86, Communication Services, Publishing
+PUMP, 9.41, Energy, Oil & Gas Equipment & Services
+PVL, 1.1800, Energy, Oil & Gas E&P
+PYN, 9.17, Financial Services, Asset Management
+PZN, 8.92, Financial Services, Asset Management
+QD, 2.7200, Financial Services, Credit Services
+QEP, 3.3000, Energy, Oil & Gas E&P
+QUAD, 5.60, Industrials, Specialty Business Services
+QUOT, 9.80, Communication Services, Advertising Agencies
+RCS, 7.22, Financial Services, Asset Management
+RENN, 7.77, Consumer Cyclical, Auto & Truck Dealerships
+RES, 5.01, Energy, Oil & Gas Equipment & Services
+RFP, 8.11, Basic Materials, Paper & Paper Products
+RIG, 3.5400, Energy, Oil & Gas Drilling
+RLH, 3.4200, Consumer Cyclical, Lodging
+RNGR, 5.14, Energy, Oil & Gas Equipment & Services
+RPAI, 9.64, Real Estate, REIT—Retail
+RPT, 9.70, Real Estate, REIT—Retail
+RRC, 9.55, Energy, Oil & Gas E&P
+RRD, 2.4500, Industrials, Specialty Business Services
+RWT, 9.44, Real Estate, REIT—Mortgage
+RYAM, 8.73, Basic Materials, Chemicals
+RYB, 3.6399, Consumer Defensive, Education & Training Services
+SAN, 3.3500, Financial Services, Banks—Diversified
+SAND, 6.30, Basic Materials, Gold
+SB, 2.1800, Industrials, Marine Shipping
+SBI, 9.33, Financial Services, Asset Management
+SBOW, 6.46, Energy, Oil & Gas E&P
+SBS, 7.51, Utilities, Utilities—Regulated Water
+SCX, 5.01, Industrials, Tools & Accessories
+SD, 4.8800, Energy, Oil & Gas E&P
+SFE, 7.60, Financial Services, Asset Management
+SFL, 6.84, Industrials, Marine Shipping
+SGU, 9.87, Energy, Oil & Gas Midstream
+SID, 5.82, Basic Materials, Steel
+SJT, 3.8000, Energy, Oil & Gas E&P
+SLCA, 9.49, Energy, Oil & Gas Equipment & Services
+SMFG, 6.52, Financial Services, Banks—Diversified
+SMHI, 3.4300, Industrials, Marine Shipping
+SMM, 4.8300, Financial Services, Asset Management
+SNR, 5.72, Real Estate, REIT—Residential
+SOGO, 8.32, Communication Services, Internet Content & Information
+SOS, 3.9800, Technology, Software—Infrastructure
+SQNS, 8.86, Technology, Semiconductors
+SRL, 8.40, Financial Services, Capital Markets
+SRT, 8.78, Industrials, Specialty Business Services
+STG, 2.3700, Consumer Defensive, Education & Training Services
+STON, 3.1300, Consumer Cyclical, Personal Services
+SUP, 5.55, Consumer Cyclical, Auto Parts
+SUPV, 1.8600, Financial Services, Banks—Regional
+SWN, 4.1400, Energy, Oil & Gas E&P
+SWZ, 9.11, Financial Services, Asset Management
+SXC, 5.73, Basic Materials, Coking Coal
+TAC, 8.84, Utilities, Utilities—Independent Power Producers
+TALO, 9.35, Energy, Oil & Gas E&P
+TEF, 4.6200, Communication Services, Telecom Services
+TEI, 7.67, Financial Services, Asset Management
+TEO, 6.62, Communication Services, Telecom Services
+TGS, 5.09, Energy, Oil & Gas Midstream
+TK, 2.7300, Energy, Oil & Gas Midstream
+TKC, 5.85, Communication Services, Telecom Services
+TMST, 5.49, Basic Materials, Steel
+TNP, 8.87, Energy, Oil & Gas Midstream
+TPRE, 9.87, Financial Services, Insurance—Reinsurance
+TREC, 7.17, Basic Materials, Specialty Chemicals
+TSI, 5.58, Financial Services, Asset Management
+TTI, 2.2000, Energy, Oil & Gas Equipment & Services
+TV, 8.13, Communication Services, Broadcasting
+TWI, 7.50, Industrials, Farm & Heavy Construction Machinery
+TWO, 6.27, Real Estate, REIT—Mortgage
+UGP, 4.4000, Energy, Oil & Gas Refining & Marketing
+UMC, 9.53, Technology, Semiconductors
+USA, 7.24, Financial Services, Asset Management
+USDP, 5.52, Industrials, Railroads
+USX, 8.51, Industrials, Trucking
+UTI, 6.51, Consumer Defensive, Education & Training Services
+VEDL, 9.70, Basic Materials, Other Industrial Metals & Mining
+VEL, 7.38, Financial Services, Mortgage Finance
+VET, 5.0200, Energy, Oil & Gas E&P
+VHC, 6.75, Technology, Software—Infrastructure
+VIST, 2.7000, Energy, Oil & Gas E&P
+VIV, 8.99, Communication Services, Telecom Services
+VNCE, 8.80, Consumer Cyclical, Apparel Manufacturing
+VNTR, 4.1100, Basic Materials, Specialty Chemicals
+VOC, 2.7100, Energy, Oil & Gas E&P
+VVR, 4.1700, Financial Services, Asset Management
+WEI, 1.9600, Financial Services, Credit Services
+WIT, 6.43, Technology, Information Technology Services
+WMC, 3.0800, Real Estate, REIT—Mortgage
+WPX, 9.11, , 
+WSR, 8.35, Real Estate, REIT—Retail
+WTI, 2.7200, Energy, Oil & Gas E&P
+WTTR, 6.09, Energy, Oil & Gas Equipment & Services
+XAN, 3.9400, Real Estate, REIT—Mortgage
+XFLT, 8.21, , 
+XIN, 2.3800, Real Estate, Real Estate—Development
+XYF, 2.5000, Financial Services, Credit Services
+YPF, 4.2900, Energy, Oil & Gas Integrated
+YRD, 4.1200, Financial Services, Credit Services
+ZTR, 8.7, Financial, Closed-End Fund - Equity
