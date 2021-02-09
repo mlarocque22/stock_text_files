@@ -11,7 +11,7 @@ NASDAQ.txt is a list of every stock on the NASDAQ stock exchange, with their tic
 
 Portfolio_update_total.txt is the most current returns on the portfolio created from my Stock_Screener program
 
-Inside the Penny_Stocks folder there are multiple text files which just show every NYSE stock under a set price threshold
+Inside the Penny_Stocks folder there are multiple text files which just show every NYSE and NASDAQ stock under a set price threshold
 
 Inside the Penny_Options folder there a multiple text files which just show every stock on the NYSE under a set price threshold that also support options
 
