@@ -1,0 +1,76 @@
+ACRX,  2.3500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ADMP,  1.3000,  Healthcare,  Drug Manufacturers—Specialty & Generic
+AEZS,  1.1800,  Healthcare,  Biotechnology
+AGFS,  2.2800,  Consumer Defensive,  Farm Products
+AHC,  2.4500,  Communication Services,  Publishing
+ARC,  2.1900,  Industrials,  Specialty Business Services
+ASRT,  0.8797,  Healthcare,  Drug Manufacturers—Specialty & Generic
+BKEP,  2.0900,  Energy,  Oil & Gas Midstream
+BXRX,  1.7700,  Healthcare,  Biotechnology
+CCLP,  1.6900,  Energy,  Oil & Gas Equipment & Services
+CCO,  1.9400,  Communication Services,  Advertising Agencies
+CHS,  2.3400,  Consumer Cyclical,  Apparel Retail
+CLBS,  2.2700,  Healthcare,  Biotechnology
+CLSN,  1.9300,  Healthcare,  Biotechnology
+CSLT,  1.8300,  Healthcare,  Health Information Services
+CXDC,  1.1400,  Consumer Cyclical,  Auto Parts
+DS,  2.4400,  Consumer Cyclical,  Leisure
+ESGC,  2.1000,  Communication Services,  Entertainment
+FENG,  1.4700,  Communication Services,  Internet Content & Information
+FTK,  2.1100,  Energy,  Oil & Gas Equipment & Services
+GALT,  2.3600,  Healthcare,  Biotechnology
+GEN,  0.7549,  Healthcare,  Medical Care Facilities
+GERN,  2.0000,  Healthcare,  Biotechnology
+GNUS,  1.9600,  Communication Services,  Entertainment
+GSUM,  1.8500,  Technology,  Software—Application
+HDSN,  1.5900,  Basic Materials,  Specialty Chemicals
+HEPA,  2.3700,  Healthcare,  Biotechnology
+HIL,  2.3100,  Industrials,  Engineering & Construction
+HUGE,  2.2500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+JP,  2.3000,  Financial Services,  Asset Management
+LEE,  1.9000,  Communication Services,  Publishing
+LPCN,  1.9000,  Healthcare,  Biotechnology
+LYG,  1.9900,  Financial Services,  Banks—Regional
+MIND,  2.2700,  Technology,  Scientific & Technical Instruments
+MLND,  2.3500,  Healthcare,  Biotechnology
+MMLP,  1.9100,  Energy,  Oil & Gas Midstream
+MRKR,  2.2700,  Healthcare,  Biotechnology
+MTL,  1.9000,  Basic Materials,  Steel
+MUX,  1.1600,  Basic Materials,  Other Precious Metals & Mining
+NEOS,  0.9345,  Healthcare,  Drug Manufacturers—Specialty & Generic
+NEPT,  2.3400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+NMTR,  1.8100,  Healthcare,  Biotechnology
+NXTD,  1.6300,  Industrials,  Security & Protection Services
+OSG,  2.1600,  Energy,  Oil & Gas Midstream
+PFMT,  1.1900,  Industrials,  Specialty Business Services
+PTE,  1.2300,  Healthcare,  Biotechnology
+PTMN,  2.0100,  , 
+PVL,  1.1800,  Energy,  Oil & Gas E&P
+RAVE,  1.2500,  Consumer Cyclical,  Restaurants
+REED,  1.0800,  Consumer Defensive,  Beverages—Non-Alcoholic
+RGLS,  1.6000,  Healthcare,  Biotechnology
+RMTI,  1.4400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+RRD,  2.4500,  Industrials,  Specialty Business Services
+SB,  2.1800,  Industrials,  Marine Shipping
+SEAC,  1.3400,  Technology,  Software—Application
+SESN,  2.4100,  Healthcare,  Biotechnology
+SND,  2.0700,  Energy,  Oil & Gas Equipment & Services
+SNDL,  1.1500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+SPRT,  2.4900,  Technology,  Software—Application
+SREV,  1.6900,  Technology,  Software—Application
+STCN,  1.9300,  Industrials,  Conglomerates
+SUPV,  1.8600,  Financial Services,  Banks—Regional
+SVRA,  2.0000,  Healthcare,  Biotechnology
+SYNC,  2.0900,  Technology,  Software—Infrastructure
+TTI,  2.2000,  Energy,  Oil & Gas Equipment & Services
+TXMD,  2.2370,  Healthcare,  Drug Manufacturers—Specialty & Generic
+TYME,  2.4700,  Healthcare,  Biotechnology
+Ticker,  Price,  Sector,  Industry
+Ticker,  Price,  Sector,  Industry
+UTSI,  2.0600,  Technology,  Communication Equipment
+UXIN,  1.4700,  Communication Services,  Internet Content & Information
+VEON,  1.6900,  Communication Services,  Telecom Services
+VSTM,  2.3800,  Healthcare,  Biotechnology
+VTNR,  2.0750,  Energy,  Oil & Gas Refining & Marketing
+XIN,  2.3800,  Real Estate,  Real Estate—Development
+XSPA,  2.1983,  Consumer Cyclical,  Personal Services

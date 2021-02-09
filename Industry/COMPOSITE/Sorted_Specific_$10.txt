@@ -1,0 +1,686 @@
+CHU,  5.45,  , 
+FIT,  6.99,  , 
+WPX,  9.11,  , 
+BEST,  2.5000,  Industrials, 
+PTMN,  2.0100,  , 
+SRET,  9.20,  , 
+CCO,  1.9400,  Communication Services,  Advertising Agencies
+EEX,  4.8300,  Communication Services,  Advertising Agencies
+QUOT,  9.80,  Communication Services,  Advertising Agencies
+CNET,  2.9400,  Communication Services,  Advertising Agencies
+FLNT,  7.15,  Communication Services,  Advertising Agencies
+ISIG,  8.31,  Communication Services,  Advertising Agencies
+MDCA,  3.3200,  Communication Services,  Advertising Agencies
+NCMI,  4.3500,  Communication Services,  Advertising Agencies
+SCOR,  4.2900,  Communication Services,  Advertising Agencies
+SRAX,  4.77,  Communication Services,  Advertising Agencies
+XNET,  5.87,  Communication Services,  Advertising Agencies
+ERJ,  7.06,  Industrials,  Aerospace & Defense
+IVAC,  6.79,  Industrials,  Aerospace & Defense
+RKDA,  3.2500,  Basic Materials,  Agricultural Inputs
+GOL,  9.35,  Industrials,  Airlines
+MESA,  7.11,  Industrials,  Airlines
+ACH,  8.11,  Basic Materials,  Aluminum
+ICON,  2.9100,  Consumer Cyclical,  Apparel Manufacturing
+CHS,  2.3400,  Consumer Cyclical,  Apparel Retail
+EXPR,  3.2700,  Consumer Cyclical,  Apparel Retail
+JILL,  4.6500,  Consumer Cyclical,  Apparel Retail
+JP,  2.3000,  Financial Services,  Asset Management
+KYN,  6.70,  Financial Services,  Asset Management
+MN,  6.61,  Financial Services,  Asset Management
+PZN,  8.92,  Financial Services,  Asset Management
+SFE,  7.60,  Financial Services,  Asset Management
+BKCC,  3.4000,  Financial Services,  Asset Management
+FCRD,  3.8200,  Financial Services,  Asset Management
+GLAD,  9.98,  Financial Services,  Asset Management
+GROW,  6.91,  Financial Services,  Asset Management
+ICMB,  5.10,  Financial Services,  Asset Management
+OXSQ,  3.9200,  Financial Services,  Asset Management
+PNNT,  5.75,  Financial Services,  Asset Management
+PSEC,  6.83,  Financial Services,  Asset Management
+SVVC,  6.40,  Financial Services,  Asset Management
+TURN,  6.90,  Financial Services,  Asset Management
+WETF,  5.49,  Financial Services,  Asset Management
+RENN,  7.77,  Consumer Cyclical,  Auto & Truck Dealerships
+KXIN,  3.8900,  Consumer Cyclical,  Auto & Truck Dealerships
+LOTZ,  9.65,  Consumer Cyclical,  Auto & Truck Dealerships
+AYRO,  7.35,  Consumer Cyclical,  Auto Manufacturers
+SOLO,  8.82,  Consumer Cyclical,  Auto Manufacturers
+AXL,  9.83,  Consumer Cyclical,  Auto Parts
+HZN,  9.63,  Consumer Cyclical,  Auto Parts
+CAAS,  6.77,  Consumer Cyclical,  Auto Parts
+CVGI,  9.32,  Consumer Cyclical,  Auto Parts
+CXDC,  1.1400,  Consumer Cyclical,  Auto Parts
+FRSX,  9.25,  Consumer Cyclical,  Auto Parts
+KNDI,  8.93,  Consumer Cyclical,  Auto Parts
+BBVA,  5.29,  Financial Services,  Banks—Diversified
+BCS,  8.07,  Financial Services,  Banks—Diversified
+ING,  9.36,  Financial Services,  Banks—Diversified
+MUFG,  4.8400,  Financial Services,  Banks—Diversified
+NWG,  4.5700,  Financial Services,  Banks—Diversified
+SAN,  3.3500,  Financial Services,  Banks—Diversified
+SMFG,  6.52,  Financial Services,  Banks—Diversified
+BBAR,  2.9500,  Financial Services,  Banks—Regional
+BBD,  4.8600,  Financial Services,  Banks—Regional
+BSBR,  7.72,  Financial Services,  Banks—Regional
+BSMX,  5.20,  Financial Services,  Banks—Regional
+FBP,  9.87,  Financial Services,  Banks—Regional
+ITUB,  5.25,  Financial Services,  Banks—Regional
+LYG,  1.9900,  Financial Services,  Banks—Regional
+MFG,  2.8400,  Financial Services,  Banks—Regional
+SUPV,  1.8600,  Financial Services,  Banks—Regional
+ASRV,  3.8600,  Financial Services,  Banks—Regional
+FRBK,  3.3500,  Financial Services,  Banks—Regional
+GGAL,  8.32,  Financial Services,  Banks—Regional
+HTBK,  9.30,  Financial Services,  Banks—Regional
+MCBC,  8.65,  Financial Services,  Banks—Regional
+RVSB,  5.62,  Financial Services,  Banks—Regional
+TRST,  6.55,  Financial Services,  Banks—Regional
+WNEB,  7.16,  Financial Services,  Banks—Regional
+ABEV,  2.9400,  Consumer Defensive,  Beverages—Brewers
+NBEV,  3.6900,  Consumer Defensive,  Beverages—Non-Alcoholic
+REED,  1.0800,  Consumer Defensive,  Beverages—Non-Alcoholic
+ABEO,  2.6700,  Healthcare,  Biotechnology
+ABIO,  4.7600,  Healthcare,  Biotechnology
+ABUS,  4.2900,  Healthcare,  Biotechnology
+ACER,  4.0500,  Healthcare,  Biotechnology
+ACIU,  6.82,  Healthcare,  Biotechnology
+ACOR,  7.36,  Healthcare,  Biotechnology
+ADAP,  6.26,  Healthcare,  Biotechnology
+ADMA,  2.6300,  Healthcare,  Biotechnology
+ADTX,  3.4500,  Healthcare,  Biotechnology
+AEZS,  1.1800,  Healthcare,  Biotechnology
+AFMD,  5.99,  Healthcare,  Biotechnology
+AGEN,  5.18,  Healthcare,  Biotechnology
+AGLE,  7.72,  Healthcare,  Biotechnology
+AGTC,  5.35,  Healthcare,  Biotechnology
+AKBA,  4.57,  Healthcare,  Biotechnology
+AMRN,  8.50,  Healthcare,  Biotechnology
+APTO,  4.5400,  Healthcare,  Biotechnology
+APTX,  3.9700,  Healthcare,  Biotechnology
+AQST,  6.20,  Healthcare,  Biotechnology
+ARDX,  7.31,  Healthcare,  Biotechnology
+ASMB,  6.28,  Healthcare,  Biotechnology
+ATHX,  2.7500,  Healthcare,  Biotechnology
+ATOS,  4.0000,  Healthcare,  Biotechnology
+AVEO,  9.25,  Healthcare,  Biotechnology
+BCLI,  7.32,  Healthcare,  Biotechnology
+BCRX,  9.99,  Healthcare,  Biotechnology
+BDSI,  4.1900,  Healthcare,  Biotechnology
+BXRX,  1.7700,  Healthcare,  Biotechnology
+CALA,  3.1900,  Healthcare,  Biotechnology
+CAPR,  6.89,  Healthcare,  Biotechnology
+CATB,  3.3100,  Healthcare,  Biotechnology
+CBAY,  6.09,  Healthcare,  Biotechnology
+CBIO,  5.95,  Healthcare,  Biotechnology
+CDTX,  2.5500,  Healthcare,  Biotechnology
+CDXC,  5.27,  Healthcare,  Biotechnology
+CERC,  3.4300,  Healthcare,  Biotechnology
+CERS,  7.65,  Healthcare,  Biotechnology
+CFRX,  5.19,  Healthcare,  Biotechnology
+CHMA,  4.4653,  Healthcare,  Biotechnology
+CLBS,  2.2700,  Healthcare,  Biotechnology
+CLSD,  3.4700,  Healthcare,  Biotechnology
+CLSN,  1.9300,  Healthcare,  Biotechnology
+CLVS,  9.35,  Healthcare,  Biotechnology
+CMRX,  9.95,  Healthcare,  Biotechnology
+CNCE,  6.99,  Healthcare,  Biotechnology
+CPRX,  4.4200,  Healthcare,  Biotechnology
+CRBP,  2.6400,  Healthcare,  Biotechnology
+CRVS,  4.1000,  Healthcare,  Biotechnology
+CTIC,  3.9400,  Healthcare,  Biotechnology
+CTMX,  8.25,  Healthcare,  Biotechnology
+CYCN,  4.5200,  Healthcare,  Biotechnology
+DBVT,  5.91,  Healthcare,  Biotechnology
+DVAX,  9.73,  Healthcare,  Biotechnology
+DYAI,  6.06,  Healthcare,  Biotechnology
+EVFM,  3.4800,  Healthcare,  Biotechnology
+EVGN,  8.32,  Healthcare,  Biotechnology
+EYEN,  6.54,  Healthcare,  Biotechnology
+FENC,  8.19,  Healthcare,  Biotechnology
+GALT,  2.3600,  Healthcare,  Biotechnology
+GERN,  2.0000,  Healthcare,  Biotechnology
+GLMD,  4.6300,  Healthcare,  Biotechnology
+GLYC,  4.0900,  Healthcare,  Biotechnology
+GNCA,  3.2500,  Healthcare,  Biotechnology
+GNPX,  6.43,  Healthcare,  Biotechnology
+HEPA,  2.3700,  Healthcare,  Biotechnology
+IDRA,  5.39,  Healthcare,  Biotechnology
+IFRX,  5.82,  Healthcare,  Biotechnology
+IMGN,  7.80,  Healthcare,  Biotechnology
+IMV,  4.4200,  Healthcare,  Biotechnology
+INFI,  4.44,  Healthcare,  Biotechnology
+ISEE,  5.66,  Healthcare,  Biotechnology
+JAGX,  2.7700,  Healthcare,  Biotechnology
+KALA,  9.92,  Healthcare,  Biotechnology
+KDMN,  5.32,  Healthcare,  Biotechnology
+KMPH,  8.00,  Healthcare,  Biotechnology
+KZR,  5.35,  Healthcare,  Biotechnology
+LJPC,  7.19,  Healthcare,  Biotechnology
+LPCN,  1.9000,  Healthcare,  Biotechnology
+LQDA,  3.2200,  Healthcare,  Biotechnology
+LXRX,  8.75,  Healthcare,  Biotechnology
+MACK,  7.46,  Healthcare,  Biotechnology
+MBIO,  4.7000,  Healthcare,  Biotechnology
+MEIP,  3.8600,  Healthcare,  Biotechnology
+MESO,  9.88,  Healthcare,  Biotechnology
+MGTA,  9.83,  Healthcare,  Biotechnology
+MIST,  8.25,  Healthcare,  Biotechnology
+MLND,  2.3500,  Healthcare,  Biotechnology
+MNKD,  5.03,  Healthcare,  Biotechnology
+MNOV,  6.60,  Healthcare,  Biotechnology
+MRKR,  2.2700,  Healthcare,  Biotechnology
+NBRV,  2.9900,  Healthcare,  Biotechnology
+NERV,  3.4000,  Healthcare,  Biotechnology
+NMTR,  1.8100,  Healthcare,  Biotechnology
+NTEC,  5.12,  Healthcare,  Biotechnology
+NYMX,  3.0300,  Healthcare,  Biotechnology
+OBSV,  3.9000,  Healthcare,  Biotechnology
+ORTX,  7.74,  Healthcare,  Biotechnology
+OTIC,  5.57,  Healthcare,  Biotechnology
+OVID,  3.2470,  Healthcare,  Biotechnology
+PGEN,  8.16,  Healthcare,  Biotechnology
+PHAS,  4.3500,  Healthcare,  Biotechnology
+PIRS,  2.8800,  Healthcare,  Biotechnology
+PROG,  6.01,  Healthcare,  Biotechnology
+PRQR,  5.07,  Healthcare,  Biotechnology
+PRTK,  8.05,  Healthcare,  Biotechnology
+PSTI,  6.99,  Healthcare,  Biotechnology
+PSTX,  9.28,  Healthcare,  Biotechnology
+PTE,  1.2300,  Healthcare,  Biotechnology
+QLGN,  4.1400,  Healthcare,  Biotechnology
+RGLS,  1.6000,  Healthcare,  Biotechnology
+RIGL,  4.8000,  Healthcare,  Biotechnology
+SBBP,  3.1000,  Healthcare,  Biotechnology
+SELB,  5.1400,  Healthcare,  Biotechnology
+SESN,  2.4100,  Healthcare,  Biotechnology
+SIGA,  6.83,  Healthcare,  Biotechnology
+SMMT,  9.41,  Healthcare,  Biotechnology
+SNSS,  3.0700,  Healthcare,  Biotechnology
+SPPI,  3.9700,  Healthcare,  Biotechnology
+SVRA,  2.0000,  Healthcare,  Biotechnology
+SYBX,  4.2400,  Healthcare,  Biotechnology
+TLSA,  4.0800,  Healthcare,  Biotechnology
+TRVN,  2.6600,  Healthcare,  Biotechnology
+TTNP,  3.7500,  Healthcare,  Biotechnology
+TYME,  2.4700,  Healthcare,  Biotechnology
+UBX,  8.10,  Healthcare,  Biotechnology
+VBIV,  3.8951,  Healthcare,  Biotechnology
+VBLT,  2.5000,  Healthcare,  Biotechnology
+VCNX,  3.1600,  Healthcare,  Biotechnology
+VKTX,  9.67,  Healthcare,  Biotechnology
+VRNA,  8.62,  Healthcare,  Biotechnology
+VSTM,  2.3800,  Healthcare,  Biotechnology
+VXRT,  8.12,  Healthcare,  Biotechnology
+VYGR,  7.55,  Healthcare,  Biotechnology
+XERS,  7.34,  Healthcare,  Biotechnology
+ZIOP,  5.22,  Healthcare,  Biotechnology
+ETM,  5.06,  Communication Services,  Broadcasting
+EVC,  3.2400,  Communication Services,  Broadcasting
+TV,  8.13,  Communication Services,  Broadcasting
+SIRI,  6.14,  Communication Services,  Broadcasting
+CX,  6.43,  Basic Materials,  Building Materials
+LOMA,  5.39,  Basic Materials,  Building Materials
+AFI,  4.4900,  Industrials,  Building Products & Equipment
+ACCO,  8.95,  Industrials,  Business Equipment & Supplies
+PBI,  9.23,  Industrials,  Business Equipment & Supplies
+NMR,  5.67,  Financial Services,  Capital Markets
+BGCP,  4.0795,  Financial Services,  Capital Markets
+SIEB,  5.65,  Financial Services,  Capital Markets
+LXU,  3.9800,  Basic Materials,  Chemicals
+RYAM,  8.73,  Basic Materials,  Chemicals
+SXC,  5.73,  Basic Materials,  Coking Coal
+NOK,  4.3300,  Technology,  Communication Equipment
+CASA,  8.34,  Technology,  Communication Equipment
+CRNT,  4.83,  Technology,  Communication Equipment
+EXTR,  9.35,  Technology,  Communication Equipment
+HLIT,  7.67,  Technology,  Communication Equipment
+ITI,  6.00,  Technology,  Communication Equipment
+PCTI,  8.41,  Technology,  Communication Equipment
+PWFL,  7.98,  Technology,  Communication Equipment
+UTSI,  2.0600,  Technology,  Communication Equipment
+CAN,  6.91,  Technology,  Computer Hardware
+DAKT,  5.28,  Technology,  Computer Hardware
+INVE,  9.81,  Technology,  Computer Hardware
+KTCC,  9.38,  Technology,  Computer Hardware
+QMCO,  8.11,  Technology,  Computer Hardware
+TACT,  8.62,  Technology,  Computer Hardware
+CRESY,  5.12,  Industrials,  Conglomerates
+NNBR,  7.09,  Industrials,  Conglomerates
+STCN,  1.9300,  Industrials,  Conglomerates
+GPRO,  8.53,  Technology,  Consumer Electronics
+HBM,  6.07,  Basic Materials,  Copper
+BBDC,  9.15,  Financial Services,  Credit Services
+FINV,  4.1100,  Financial Services,  Credit Services
+QD,  2.7200,  Financial Services,  Credit Services
+YRD,  4.1200,  Financial Services,  Credit Services
+CPSS,  4.2300,  Financial Services,  Credit Services
+EZPW,  5.20,  Financial Services,  Credit Services
+MFIN,  6.68,  Financial Services,  Credit Services
+MGI,  8.81,  Financial Services,  Credit Services
+OCSL,  6.01,  Financial Services,  Credit Services
+CO,  4.1300,  Healthcare,  Diagnostics & Research
+ENZ,  3.3300,  Healthcare,  Diagnostics & Research
+AWH,  8.09,  Healthcare,  Diagnostics & Research
+BIOC,  7.38,  Healthcare,  Diagnostics & Research
+BMRA,  7.63,  Healthcare,  Diagnostics & Research
+CEMI,  7.77,  Healthcare,  Diagnostics & Research
+FLDM,  7.16,  Healthcare,  Diagnostics & Research
+GENE,  4.51,  Healthcare,  Diagnostics & Research
+HTGM,  6.68,  Healthcare,  Diagnostics & Research
+OPK,  5.40,  Healthcare,  Diagnostics & Research
+QTNT,  5.24,  Healthcare,  Diagnostics & Research
+SLNO,  2.7100,  Healthcare,  Diagnostics & Research
+TRIB,  5.86,  Healthcare,  Diagnostics & Research
+TTOO,  3.2500,  Healthcare,  Diagnostics & Research
+AMRX,  5.17,  Healthcare,  Drug Manufacturers—Specialty & Generic
+HEXO,  7.95,  Healthcare,  Drug Manufacturers—Specialty & Generic
+LCI,  6.40,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ACRX,  2.3500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ADMP,  1.3000,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ADMS,  6.00,  Healthcare,  Drug Manufacturers—Specialty & Generic
+AGRX,  3.0000,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ASRT,  0.8797,  Healthcare,  Drug Manufacturers—Specialty & Generic
+AVDL,  8.95,  Healthcare,  Drug Manufacturers—Specialty & Generic
+DRRX,  2.5300,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ENDP,  8.95,  Healthcare,  Drug Manufacturers—Specialty & Generic
+EOLS,  6.99,  Healthcare,  Drug Manufacturers—Specialty & Generic
+EVOK,  3.0500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+HROW,  9.97,  Healthcare,  Drug Manufacturers—Specialty & Generic
+HUGE,  2.2500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+KIN,  5.18,  Healthcare,  Drug Manufacturers—Specialty & Generic
+KMDA,  7.44,  Healthcare,  Drug Manufacturers—Specialty & Generic
+NEOS,  0.9345,  Healthcare,  Drug Manufacturers—Specialty & Generic
+NEPT,  2.3400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+OGI,  2.5400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+RDHL,  9.32,  Healthcare,  Drug Manufacturers—Specialty & Generic
+REPH,  3.7300,  Healthcare,  Drug Manufacturers—Specialty & Generic
+RMTI,  1.4400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+SCYX,  9.34,  Healthcare,  Drug Manufacturers—Specialty & Generic
+SLDB,  8.00,  Healthcare,  Drug Manufacturers—Specialty & Generic
+SNDL,  1.1500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+TCDA,  7.40,  Healthcare,  Drug Manufacturers—Specialty & Generic
+TXMD,  2.2370,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ZYNE,  5.38,  Healthcare,  Drug Manufacturers—Specialty & Generic
+NEW,  7.29,  Consumer Defensive,  Education & Training Services
+RYB,  3.6399,  Consumer Defensive,  Education & Training Services
+UTI,  6.51,  Consumer Defensive,  Education & Training Services
+HMHC,  5.74,  Consumer Defensive,  Education & Training Services
+LINC,  6.30,  Consumer Defensive,  Education & Training Services
+REDU,  6.00,  Consumer Defensive,  Education & Training Services
+ZVO,  5.63,  Consumer Defensive,  Education & Training Services
+BW,  6.37,  Industrials,  Electrical Equipment & Parts
+CBAT,  7.78,  Industrials,  Electrical Equipment & Parts
+OPTT,  4.9200,  Industrials,  Electrical Equipment & Parts
+RFIL,  6.15,  Industrials,  Electrical Equipment & Parts
+CLS,  9.00,  Technology,  Electronic Components
+KOPN,  7.87,  Technology,  Electronic Components
+REFR,  5.3900,  Technology,  Electronic Components
+RELL,  6.07,  Technology,  Electronic Components
+SMTX,  5.87,  Technology,  Electronic Components
+GLUU,  9.36,  Communication Services,  Electronic Gaming & Multimedia
+RNWK,  3.0250,  Communication Services,  Electronic Gaming & Multimedia
+HIL,  2.3100,  Industrials,  Engineering & Construction
+ORN,  5.90,  Industrials,  Engineering & Construction
+ENG,  7.25,  Industrials,  Engineering & Construction
+RCMT,  2.9900,  Industrials,  Engineering & Construction
+AMC,  7.17,  Communication Services,  Entertainment
+ESGC,  2.1000,  Communication Services,  Entertainment
+GNUS,  1.9600,  Communication Services,  Entertainment
+LIVX,  4.4440,  Communication Services,  Entertainment
+RDI,  6.26,  Communication Services,  Entertainment
+TWI,  7.50,  Industrials,  Farm & Heavy Construction Machinery
+MNTX,  6.22,  Industrials,  Farm & Heavy Construction Machinery
+AGRO,  8.02,  Consumer Defensive,  Farm Products
+AGFS,  2.2800,  Consumer Defensive,  Farm Products
+AQB,  9.78,  Consumer Defensive,  Farm Products
+SANW,  3.6500,  Consumer Defensive,  Farm Products
+VRA,  9.08,  Consumer Cyclical,  Footwear & Accessories
+CSPR,  8.00,  Consumer Cyclical,  Furnishings
+AGS,  6.21,  Consumer Cyclical,  Gambling
+GMBL,  8.41,  Consumer Cyclical,  Gambling
+AGI,  7.98,  Basic Materials,  Gold
+AUY,  4.7900,  Basic Materials,  Gold
+CDE,  9.19,  Basic Materials,  Gold
+GFI,  9.14,  Basic Materials,  Gold
+HL,  5.98,  Basic Materials,  Gold
+HMY,  4.2700,  Basic Materials,  Gold
+IAG,  3.4900,  Basic Materials,  Gold
+KGC,  7.05,  Basic Materials,  Gold
+SAND,  6.30,  Basic Materials,  Gold
+CSLT,  1.8300,  Healthcare,  Health Information Services
+KERN,  7.80,  Healthcare,  Health Information Services
+NH,  4.6300,  Healthcare,  Health Information Services
+MPLN,  8.00,  Healthcare,  Healthcare Plans
+COTY,  7.05,  Consumer Defensive,  Household & Personal Products
+HBP,  4.0000,  Industrials,  Industrial Distribution
+HWCC,  3.8800,  Industrials,  Industrial Distribution
+Ticker,  Price,  Sector,  Industry
+Ticker,  Price,  Sector,  Industry
+WIT,  6.43,  Technology,  Information Technology Services
+AVCT,  8.37,  Technology,  Information Technology Services
+CNDT,  5.20,  Technology,  Information Technology Services
+CTG,  6.67,  Technology,  Information Technology Services
+INOD,  6.70,  Technology,  Information Technology Services
+AEG,  4.3200,  Financial Services,  Insurance—Diversified
+CIA,  5.81,  Financial Services,  Insurance—Life
+GNW,  3.6100,  Financial Services,  Insurance—Life
+HRTG,  9.32,  Financial Services,  Insurance—Property & Casualty
+FNHC,  6.25,  Financial Services,  Insurance—Property & Casualty
+HALL,  4.3300,  Financial Services,  Insurance—Property & Casualty
+UIHC,  5.59,  Financial Services,  Insurance—Property & Casualty
+TPRE,  9.87,  Financial Services,  Insurance—Reinsurance
+GLRE,  7.86,  Financial Services,  Insurance—Reinsurance
+MHLD,  2.5000,  Financial Services,  Insurance—Reinsurance
+MBI,  6.59,  Financial Services,  Insurance—Specialty
+FENG,  1.4700,  Communication Services,  Internet Content & Information
+LEAF,  6.47,  Communication Services,  Internet Content & Information
+SOGO,  8.32,  Communication Services,  Internet Content & Information
+AUTO,  3.3200,  Communication Services,  Internet Content & Information
+GAIA,  9.82,  Communication Services,  Internet Content & Information
+LTRPA,  5.09,  Communication Services,  Internet Content & Information
+MARK,  4.4600,  Communication Services,  Internet Content & Information
+QTT,  3.8100,  Communication Services,  Internet Content & Information
+TRUE,  5.00,  Communication Services,  Internet Content & Information
+TRVG,  2.6600,  Communication Services,  Internet Content & Information
+UXIN,  1.4700,  Communication Services,  Internet Content & Information
+NHTC,  6.62,  Consumer Cyclical,  Internet Retail
+SECO,  2.8400,  Consumer Cyclical,  Internet Retail
+SFT,  8.31,  Consumer Cyclical,  Internet Retail
+DS,  2.4400,  Consumer Cyclical,  Leisure
+RLH,  3.4200,  Consumer Cyclical,  Lodging
+ASC,  3.6000,  Industrials,  Marine Shipping
+CMRE,  8.55,  Industrials,  Marine Shipping
+DSX,  2.6400,  Industrials,  Marine Shipping
+GNK,  8.06,  Industrials,  Marine Shipping
+NAT,  3.2100,  Industrials,  Marine Shipping
+NM,  4.8000,  Industrials,  Marine Shipping
+SB,  2.1800,  Industrials,  Marine Shipping
+SFL,  6.84,  Industrials,  Marine Shipping
+SMHI,  3.4300,  Industrials,  Marine Shipping
+CPLP,  9.92,  Industrials,  Marine Shipping
+GASS,  2.7700,  Industrials,  Marine Shipping
+GOGL,  5.10,  Industrials,  Marine Shipping
+BKD,  5.50,  Healthcare,  Medical Care Facilities
+CYH,  9.32,  Healthcare,  Medical Care Facilities
+GEN,  0.7549,  Healthcare,  Medical Care Facilities
+TLMD,  7.94,  Healthcare,  Medical Care Facilities
+BSGM,  5.09,  Healthcare,  Medical Devices
+EDAP,  8.64,  Healthcare,  Medical Devices
+SIEN,  5.98,  Healthcare,  Medical Devices
+SRGA,  2.9073,  Healthcare,  Medical Devices
+VRAY,  5.10,  Healthcare,  Medical Devices
+XAIR,  6.50,  Healthcare,  Medical Devices
+ATRS,  4.7400,  Healthcare,  Medical Instruments & Supplies
+HBIO,  4.93,  Healthcare,  Medical Instruments & Supplies
+KRMD,  4.3700,  Healthcare,  Medical Instruments & Supplies
+AP,  7.52,  Industrials,  Metal Fabrication
+ATAX,  4.6000,  Financial Services,  Mortgage Finance
+MRCC,  8.77,  Financial Services,  Mortgage Finance
+RIG,  3.5400,  Energy,  Oil & Gas Drilling
+PTEN,  6.31,  Energy,  Oil & Gas Drilling
+AMPY,  2.6100,  Energy,  Oil & Gas E&P
+AR,  7.42,  Energy,  Oil & Gas E&P
+BSM,  9.73,  Energy,  Oil & Gas E&P
+CPG,  3.1900,  Energy,  Oil & Gas E&P
+CRK,  5.0000,  Energy,  Oil & Gas E&P
+EGY,  2.9700,  Energy,  Oil & Gas E&P
+ERF,  3.7800,  Energy,  Oil & Gas E&P
+KOS,  2.5800,  Energy,  Oil & Gas E&P
+KRP,  8.82,  Energy,  Oil & Gas E&P
+MGY,  9.85,  Energy,  Oil & Gas E&P
+MRO,  7.93,  Energy,  Oil & Gas E&P
+MVO,  3.9499,  Energy,  Oil & Gas E&P
+PBT,  3.8100,  Energy,  Oil & Gas E&P
+PHX,  3.1400,  Energy,  Oil & Gas E&P
+PVL,  1.1800,  Energy,  Oil & Gas E&P
+QEP,  3.3000,  Energy,  Oil & Gas E&P
+RRC,  9.55,  Energy,  Oil & Gas E&P
+SD,  4.8800,  Energy,  Oil & Gas E&P
+SJT,  3.8000,  Energy,  Oil & Gas E&P
+SWN,  4.1400,  Energy,  Oil & Gas E&P
+TALO,  9.35,  Energy,  Oil & Gas E&P
+VET,  5.0200,  Energy,  Oil & Gas E&P
+VOC,  2.7100,  Energy,  Oil & Gas E&P
+WTI,  2.7200,  Energy,  Oil & Gas E&P
+AXAS,  3.6250,  Energy,  Oil & Gas E&P
+BRY,  4.3600,  Energy,  Oil & Gas E&P
+CDEV,  3.4500,  Energy,  Oil & Gas E&P
+CLMT,  3.9000,  Energy,  Oil & Gas E&P
+FLMN,  3.7400,  Energy,  Oil & Gas E&P
+TELL,  3.3900,  Energy,  Oil & Gas E&P
+AROC,  9.51,  Energy,  Oil & Gas Equipment & Services
+DNOW,  9.76,  Energy,  Oil & Gas Equipment & Services
+EXTN,  4.8600,  Energy,  Oil & Gas Equipment & Services
+FI,  3.2400,  Energy,  Oil & Gas Equipment & Services
+FTK,  2.1100,  Energy,  Oil & Gas Equipment & Services
+HLX,  4.7500,  Energy,  Oil & Gas Equipment & Services
+IO,  2.9700,  Energy,  Oil & Gas Equipment & Services
+MRC,  9.83,  Energy,  Oil & Gas Equipment & Services
+NEX,  3.8500,  Energy,  Oil & Gas Equipment & Services
+NGS,  9.33,  Energy,  Oil & Gas Equipment & Services
+NINE,  2.9200,  Energy,  Oil & Gas Equipment & Services
+NOA,  9.23,  Energy,  Oil & Gas Equipment & Services
+NR,  2.8000,  Energy,  Oil & Gas Equipment & Services
+NRT,  4.1000,  Energy,  Oil & Gas Equipment & Services
+OII,  9.85,  Energy,  Oil & Gas Equipment & Services
+OIS,  6.42,  Energy,  Oil & Gas Equipment & Services
+PUMP,  9.41,  Energy,  Oil & Gas Equipment & Services
+RES,  5.01,  Energy,  Oil & Gas Equipment & Services
+SLCA,  9.49,  Energy,  Oil & Gas Equipment & Services
+TTI,  2.2000,  Energy,  Oil & Gas Equipment & Services
+WTTR,  6.09,  Energy,  Oil & Gas Equipment & Services
+CCLP,  1.6900,  Energy,  Oil & Gas Equipment & Services
+GEOS,  9.05,  Energy,  Oil & Gas Equipment & Services
+GIFI,  4.0600,  Energy,  Oil & Gas Equipment & Services
+SND,  2.0700,  Energy,  Oil & Gas Equipment & Services
+TUSK,  4.5100,  Energy,  Oil & Gas Equipment & Services
+CVE,  6.43,  Energy,  Oil & Gas Integrated
+YPF,  4.2900,  Energy,  Oil & Gas Integrated
+AM,  8.01,  Energy,  Oil & Gas Midstream
+DHT,  5.70,  Energy,  Oil & Gas Midstream
+DLNG,  2.8500,  Energy,  Oil & Gas Midstream
+ENBL,  5.75,  Energy,  Oil & Gas Midstream
+ENLC,  4.1700,  Energy,  Oil & Gas Midstream
+ET,  6.70,  Energy,  Oil & Gas Midstream
+ETRN,  7.08,  Energy,  Oil & Gas Midstream
+EURN,  8.31,  Energy,  Oil & Gas Midstream
+FRO,  6.49,  Energy,  Oil & Gas Midstream
+GEL,  6.42,  Energy,  Oil & Gas Midstream
+GLOG,  4.5000,  Energy,  Oil & Gas Midstream
+GLOP,  3.4500,  Energy,  Oil & Gas Midstream
+NNA,  3.6600,  Energy,  Oil & Gas Midstream
+NVGS,  9.45,  Energy,  Oil & Gas Midstream
+OSG,  2.1600,  Energy,  Oil & Gas Midstream
+SGU,  9.87,  Energy,  Oil & Gas Midstream
+TGS,  5.09,  Energy,  Oil & Gas Midstream
+TK,  2.7300,  Energy,  Oil & Gas Midstream
+TNP,  8.87,  Energy,  Oil & Gas Midstream
+BKEP,  2.0900,  Energy,  Oil & Gas Midstream
+GMLP,  3.4600,  Energy,  Oil & Gas Midstream
+MMLP,  1.9100,  Energy,  Oil & Gas Midstream
+PAA,  9.05,  Energy,  Oil & Gas Midstream
+PAGP,  9.15,  Energy,  Oil & Gas Midstream
+BPT,  3.5900,  Energy,  Oil & Gas Refining & Marketing
+NGL,  2.7200,  Energy,  Oil & Gas Refining & Marketing
+PBF,  9.55,  Energy,  Oil & Gas Refining & Marketing
+UGP,  4.4000,  Energy,  Oil & Gas Refining & Marketing
+ALTO,  7.90,  Energy,  Oil & Gas Refining & Marketing
+AMTX,  7.59,  Energy,  Oil & Gas Refining & Marketing
+VTNR,  2.0750,  Energy,  Oil & Gas Refining & Marketing
+VEDL,  9.70,  Basic Materials,  Other Industrial Metals & Mining
+GSM,  3.4500,  Basic Materials,  Other Industrial Metals & Mining
+WWR,  9.42,  Basic Materials,  Other Industrial Metals & Mining
+MUX,  1.1600,  Basic Materials,  Other Precious Metals & Mining
+BRFS,  4.2000,  Consumer Defensive,  Packaged Foods
+DTEA,  5.0200,  Consumer Defensive,  Packaged Foods
+LFVN,  9.68,  Consumer Defensive,  Packaged Foods
+RFP,  8.11,  Basic Materials,  Paper & Paper Products
+STON,  3.1300,  Consumer Cyclical,  Personal Services
+XSPA,  2.1983,  Consumer Cyclical,  Personal Services
+CECE,  7.19,  Industrials,  Pollution & Treatment Controls
+CLIR,  4.5300,  Industrials,  Pollution & Treatment Controls
+FTEK,  5.39,  Industrials,  Pollution & Treatment Controls
+AHC,  2.4500,  Communication Services,  Publishing
+GCI,  4.7500,  Communication Services,  Publishing
+LEE,  1.9000,  Communication Services,  Publishing
+PSO,  9.86,  Communication Services,  Publishing
+CLNY,  5.39,  Real Estate,  REIT—Diversified
+ESRT,  9.90,  Real Estate,  REIT—Diversified
+GEO,  8.68,  Real Estate,  REIT—Healthcare Facilities
+DHC,  4.4600,  Real Estate,  REIT—Healthcare Facilities
+AHT,  3.0000,  Real Estate,  REIT—Hotel & Motel
+BHR,  5.40,  Real Estate,  REIT—Hotel & Motel
+CPLG,  7.82,  Real Estate,  REIT—Hotel & Motel
+DRH,  9.01,  Real Estate,  REIT—Hotel & Motel
+HT,  8.20,  Real Estate,  REIT—Hotel & Motel
+INN,  9.06,  Real Estate,  REIT—Hotel & Motel
+AAIC,  3.7000,  Real Estate,  REIT—Mortgage
+ANH,  2.6800,  Real Estate,  REIT—Mortgage
+CMO,  5.69,  Real Estate,  REIT—Mortgage
+GPMT,  9.95,  Real Estate,  REIT—Mortgage
+IVR,  3.8300,  Real Estate,  REIT—Mortgage
+LFT,  3.2300,  Real Estate,  REIT—Mortgage
+MFA,  3.9200,  Real Estate,  REIT—Mortgage
+MITT,  3.6000,  Real Estate,  REIT—Mortgage
+NLY,  8.47,  Real Estate,  REIT—Mortgage
+ORC,  5.39,  Real Estate,  REIT—Mortgage
+RWT,  9.44,  Real Estate,  REIT—Mortgage
+TWO,  6.27,  Real Estate,  REIT—Mortgage
+WMC,  3.0800,  Real Estate,  REIT—Mortgage
+XAN,  3.9400,  Real Estate,  REIT—Mortgage
+NYMT,  4.0300,  Real Estate,  REIT—Mortgage
+PGRE,  9.08,  Real Estate,  REIT—Office
+AIV,  4.8700,  Real Estate,  REIT—Residential
+APTS,  7.67,  Real Estate,  REIT—Residential
+SNR,  5.72,  Real Estate,  REIT—Residential
+RPAI,  9.64,  Real Estate,  REIT—Retail
+RPT,  9.70,  Real Estate,  REIT—Retail
+WSR,  8.35,  Real Estate,  REIT—Retail
+CXW,  7.29,  Real Estate,  REIT—Specialty
+RAIL,  4.2300,  Industrials,  Railroads
+LEJU,  3.2300,  Real Estate,  Real Estate Services
+NTP,  8.87,  Real Estate,  Real Estate Services
+NMRK,  8.05,  Real Estate,  Real Estate Services
+FPH,  6.75,  Real Estate,  Real Estate—Development
+XIN,  2.3800,  Real Estate,  Real Estate—Development
+ALTG,  9.97,  Industrials,  Rental & Leasing Services
+NSCO,  8.09,  Industrials,  Rental & Leasing Services
+GFN,  8.60,  Industrials,  Rental & Leasing Services
+CNTY,  8.63,  Consumer Cyclical,  Resorts & Casinos
+PLYA,  6.29,  Consumer Cyclical,  Resorts & Casinos
+ARCO,  5.38,  Consumer Cyclical,  Restaurants
+JAX,  7.62,  Consumer Cyclical,  Restaurants
+GTIM,  3.6400,  Consumer Cyclical,  Restaurants
+NDLS,  8.90,  Consumer Cyclical,  Restaurants
+PBPB,  5.26,  Consumer Cyclical,  Restaurants
+RAVE,  1.2500,  Consumer Cyclical,  Restaurants
+TAST,  6.88,  Consumer Cyclical,  Restaurants
+GNSS,  7.90,  Technology,  Scientific & Technical Instruments
+MIND,  2.2700,  Technology,  Scientific & Technical Instruments
+WATT,  3.9800,  Technology,  Scientific & Technical Instruments
+ADT,  9.38,  Industrials,  Security & Protection Services
+ARLO,  8.52,  Industrials,  Security & Protection Services
+MG,  7.76,  Industrials,  Security & Protection Services
+NL,  4.8200,  Industrials,  Security & Protection Services
+DGLY,  2.7100,  Industrials,  Security & Protection Services
+MAGS,  5.30,  Industrials,  Security & Protection Services
+NXTD,  1.6300,  Industrials,  Security & Protection Services
+ASYS,  7.96,  Technology,  Semiconductor Equipment & Materials
+UMC,  9.53,  Technology,  Semiconductors
+EMKR,  6.17,  Technology,  Semiconductors
+GSIT,  7.37,  Technology,  Semiconductors
+PXLW,  3.4900,  Technology,  Semiconductors
+QUIK,  4.2700,  Technology,  Semiconductors
+RESN,  7.55,  Technology,  Semiconductors
+EXK,  4.9300,  Basic Materials,  Silver
+FSM,  7.48,  Basic Materials,  Silver
+CMCM,  4.2300,  Technology,  Software—Application
+ASUR,  9.15,  Technology,  Software—Application
+AWRE,  4.99,  Technology,  Software—Application
+BSQR,  4.26,  Technology,  Software—Application
+EIGI,  9.48,  Technology,  Software—Application
+FTFT,  6.12,  Technology,  Software—Application
+GSUM,  1.8500,  Technology,  Software—Application
+IDEX,  5.05,  Technology,  Software—Application
+JG,  5.72,  Technology,  Software—Application
+NTWK,  4.5000,  Technology,  Software—Application
+PCYG,  7.50,  Technology,  Software—Application
+RMNI,  8.05,  Technology,  Software—Application
+SEAC,  1.3400,  Technology,  Software—Application
+SMSI,  7.99,  Technology,  Software—Application
+SNCR,  4.83,  Technology,  Software—Application
+SPRT,  2.4900,  Technology,  Software—Application
+SREV,  1.6900,  Technology,  Software—Application
+TNAV,  4.7800,  Technology,  Software—Application
+WTRH,  4.0300,  Technology,  Software—Application
+MFGP,  6.59,  Technology,  Software—Infrastructure
+SOS,  3.9800,  Technology,  Software—Infrastructure
+VHC,  6.75,  Technology,  Software—Infrastructure
+GSKY,  5.99,  Technology,  Software—Infrastructure
+LLNW,  4.5200,  Technology,  Software—Infrastructure
+OPRA,  9.34,  Technology,  Software—Infrastructure
+SYNC,  2.0900,  Technology,  Software—Infrastructure
+UEPS,  4.6835,  Technology,  Software—Infrastructure
+USAT,  9.78,  Technology,  Software—Infrastructure
+ZIXI,  9.84,  Technology,  Software—Infrastructure
+ARC,  2.1900,  Industrials,  Specialty Business Services
+QUAD,  5.60,  Industrials,  Specialty Business Services
+RRD,  2.4500,  Industrials,  Specialty Business Services
+SRT,  8.78,  Industrials,  Specialty Business Services
+ACTG,  7.16,  Industrials,  Specialty Business Services
+OMEX,  7.95,  Industrials,  Specialty Business Services
+PAYS,  5.21,  Industrials,  Specialty Business Services
+PFMT,  1.1900,  Industrials,  Specialty Business Services
+PFSW,  7.46,  Industrials,  Specialty Business Services
+PRGX,  7.54,  Industrials,  Specialty Business Services
+TREC,  7.17,  Basic Materials,  Specialty Chemicals
+VNTR,  4.1100,  Basic Materials,  Specialty Chemicals
+HDSN,  1.5900,  Basic Materials,  Specialty Chemicals
+TWIN,  8.60,  Industrials,  Specialty Industrial Machinery
+ULBI,  6.61,  Industrials,  Specialty Industrial Machinery
+BBW,  5.25,  Consumer Cyclical,  Specialty Retail
+BNED,  6.91,  Consumer Cyclical,  Specialty Retail
+PRTY,  8.01,  Consumer Cyclical,  Specialty Retail
+ZAGG,  4.2600,  Consumer Cyclical,  Specialty Retail
+DHX,  2.5100,  Industrials,  Staffing & Employment Services
+CCRN,  9.43,  Industrials,  Staffing & Employment Services
+GGB,  4.3200,  Basic Materials,  Steel
+MTL,  1.9000,  Basic Materials,  Steel
+SID,  5.82,  Basic Materials,  Steel
+TMST,  5.49,  Basic Materials,  Steel
+SYNL,  8.11,  Basic Materials,  Steel
+CEL,  3.6600,  Communication Services,  Telecom Services
+GTT,  5.0100,  Communication Services,  Telecom Services
+HCHC,  3.9700,  Communication Services,  Telecom Services
+MBT,  9.30,  Communication Services,  Telecom Services
+TEF,  4.6200,  Communication Services,  Telecom Services
+TEO,  6.62,  Communication Services,  Telecom Services
+TKC,  5.85,  Communication Services,  Telecom Services
+VIV,  8.99,  Communication Services,  Telecom Services
+ALSK,  3.2800,  Communication Services,  Telecom Services
+ANTE,  3.5000,  Communication Services,  Telecom Services
+CNSL,  5.96,  Communication Services,  Telecom Services
+ORBC,  8.55,  Communication Services,  Telecom Services
+RBBN,  9.07,  Communication Services,  Telecom Services
+SIFY,  2.9800,  Communication Services,  Telecom Services
+VEON,  1.6900,  Communication Services,  Telecom Services
+CRWS,  8.00,  Consumer Cyclical,  Textile Manufacturing
+DXYN,  4.4000,  Consumer Cyclical,  Textile Manufacturing
+BTU,  3.8000,  Energy,  Thermal Coal
+CEIX,  9.39,  Energy,  Thermal Coal
+ARLP,  6.31,  Energy,  Thermal Coal
+TOUR,  2.8000,  Consumer Cyclical,  Travel Services
+USX,  8.51,  Industrials,  Trucking
+DSKE,  5.65,  Industrials,  Trucking
+YRCW,  5.46,  Industrials,  Trucking
+CIG,  2.6500,  Utilities,  Utilities—Diversified
+JE,  7.52,  Utilities,  Utilities—Diversified
+OEG,  8.84,  Utilities,  Utilities—Diversified
+AT,  2.9800,  Utilities,  Utilities—Independent Power Producers
+ENIA,  7.65,  Utilities,  Utilities—Regulated Electric
+ENIC,  3.8700,  Utilities,  Utilities—Regulated Electric
+GNE,  7.88,  Utilities,  Utilities—Regulated Electric
+SBS,  7.51,  Utilities,  Utilities—Regulated Water
+PICO,  9.05,  Utilities,  Utilities—Regulated Water
+AQMS,  6.08,  Industrials,  Waste Management
