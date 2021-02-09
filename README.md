@@ -24,3 +24,6 @@ Ones that say Sorted_Sector_$'Price' is a sorted list of stocks under a price th
 Ones that say Sorted_Specific_$'Price' are a sorted list of stocks under a price threshold sorted by their more specific industry
 
 The rest are self explanitory
+
+
+Many of the stocks in the NASDAQ are not supported by robinhood for trading
