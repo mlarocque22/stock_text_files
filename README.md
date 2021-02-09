@@ -9,11 +9,13 @@ NYSE.txt is a list of every stock on the New York Stock Exchange, with their tic
 
 NASDAQ.txt is a list of every stock on the NASDAQ stock exchange, with their ticker.
 
+COMPOSITE.txt is a combined list of NYSE and NASDAQ
+
 Portfolio_update_total.txt is the most current returns on the portfolio created from my Stock_Screener program
 
 Inside the Penny_Stocks folder there are multiple text files which just show every NYSE and NASDAQ stock under a set price threshold
 
-Inside the Penny_Options folder there a multiple text files which just show every stock on the NYSE under a set price threshold that also support options
+Inside the Penny_Options folder there a multiple text files which just show every stock on the NYSE and NASDAQunder a set price threshold that also support options
 
 Inside the Indsustry folder there are 3 types of text files:
 
