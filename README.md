@@ -9,6 +9,8 @@ NYSE.txt is a list of every stock on the New York Stock Exchange, with their tic
 
 NASDAQ.txt is a list of every stock on the NASDAQ stock exchange, with their ticker.
 
+COMPOSITE.txt is a combination of the NASDAQ and the NYSE.
+
 Portfolio_update_total.txt is the most current returns on the portfolio created from my Stock_Screener program
 
 Inside each of the folders are 3 more folders. One for the results using the NYSE, one for the NASDAQ, and one called COMPOSITE, which is the combination of both
